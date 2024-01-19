@@ -1,6 +1,6 @@
-path: D:/음식 이미지 및 영양정보 텍스트 # dataset root dir
-train: Training/images # train images
-val: Validation/images # val images
+path: E:/food # dataset root dir
+train: training/images # train images
+val: validation/images # val images
 
 nc: 41
 names:
