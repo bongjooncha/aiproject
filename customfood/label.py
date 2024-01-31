@@ -1,6 +1,6 @@
 import os
 
-directory = 'D:\음식 이미지 및 영양정보 텍스트\Training\labels'
+directory = ''
 
 # 파일 이름 대응 목록
 name_mapping = {
